@@ -1,0 +1,40 @@
+/* FONT RULES */
+@font-face {
+    font-family: "OmegaForce-Laser";
+    src: url("../font/omegaforce/omegaforcelaser1_3.ttf");
+}
+@font-face {
+    font-family: "OmegaForce-Laser-Ital";
+    src: url("../font/omegaforce/omegaforcelaserital1_3.ttf");
+}
+
+@font-face{
+    font-family: "OmegaForce-Halftone";
+    src: url("../font/omegaforce/omegaforcehalf1_3.ttf");
+}
+@font-face{
+    font-family: "OmegaForce-Halftone-Ital";
+    src: url("../font/omegaforce/omegaforcehalfital1_3.ttf");
+}
+@font-face{
+    font-family: "Lazer84";
+    src: url("../font/lazer84/Lazer84.ttf")
+}
+
+body{
+    background-color: #0E0E35;
+}
+
+.col {
+    background-color: #2F114B;
+    color: #FFFFFF;
+    border-radius: 1rem;
+  }
+
+.navbar-brand{
+    font-family: "OmegaForce-Laser-Ital";
+}
+
+.nav-item{
+    font-family: "Lazer84";
+}
