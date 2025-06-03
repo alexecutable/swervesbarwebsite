@@ -170,7 +170,7 @@ footer {
     text-align:center;
 }
 
-#maintitle {
+.maintitle {
   text-align: center;
   font-family: "OmegaForce-Laser-Ital";
   font-size: 4em;
@@ -185,7 +185,7 @@ footer {
       0 0 151px #FF00D0;
 }
 
-#subtitle {
+.subtitle {
     text-align: center;
     font-family: "Lazer84";
     position: relative;
@@ -199,7 +199,7 @@ footer {
         0 0 21px #FFFFFF;
 }
 
-#desc {
+.desc {
     position: relative;
     top:-2em;
 }
