@@ -174,15 +174,7 @@ footer {
   text-align: center;
   font-family: "OmegaForce-Laser-Ital";
   font-size: 4em;
-  text-shadow:
-      0 0 7px #FFFFFF80,
-      0 0 10px #FFFFFF80,
-      0 0 21px #FFFFFF80,
-      0 0 42px #FF00D0,
-      0 0 82px #FF00D0,
-      0 0 92px #FF00D0,
-      0 0 102px #FF00D0,
-      0 0 151px #FF00D0;
+  color:#FFFFFF;
 }
 
 .subtitle {
@@ -193,10 +185,26 @@ footer {
     top: -1em;
     color: #FF00D0;
     font-size: 3em;
+
+}
+
+.neonText-big {
     text-shadow:
-        0 0 7px #FFFFFF,
-        0 0 10px #FFFFFF,
-        0 0 21px #FFFFFF;
+    0 0 7px #FFFFFF80,
+    0 0 10px #FFFFFF80,
+    0 0 21px #FFFFFF80,
+    0 0 42px #FF00D0,
+    0 0 82px #FF00D0,
+    0 0 92px #FF00D0,
+    0 0 102px #FF00D0,
+    0 0 151px #FF00D0;
+}
+
+.neonText-small {
+    text-shadow:
+    0 0 7px #FFFFFF,
+    0 0 10px #FFFFFF,
+    0 0 21px #FFFFFF;
 }
 
 .desc {
