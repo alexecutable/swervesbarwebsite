@@ -24,15 +24,15 @@
 @keyframes pulsate {
     100% {
       /* Larger blur radius */
-      box-shadow: 0 0 .2rem #FFFFFF,
-                  0 0 .2rem #FFFFFF,
-                  0 0 2rem #FF00D0;
+      box-shadow: 0 0 .5rem #FFFFFF,
+                  0 0 .5rem #FFFFFF,
+                  0 0 4rem #FF00D0;
     }
     0% {
       /* Smaller blur radius */
-      box-shadow: 0 0 .1rem #FFFFFF,
-                  0 0 .1rem #FFFFFF,
-                  0 0 1rem #FF00D0;
+      box-shadow: 0 0 .2rem #FFFFFF,
+                  0 0 .2rem #FFFFFF,
+                  0 0 2rem #FF00D0;
     }
 }
 
@@ -115,15 +115,15 @@ footer {
 }
 
 .col {
-    background-color: #2F114B;
+    background-color: #3f1863;
     color: #FFFFFF;
     border-radius: 1rem;
     padding: 1em;
-    box-shadow: 0 0 .2rem #FFFFFF80,
-                0 0 .2rem #FFFFFF80,
-                0 0 2rem #FFFFFF80,
-                0 0 0.8rem #FFFFFF80,
-                0 0 2.8rem #FF00D080;
+    box-shadow: 0 0 .5rem #FFFFFF80,
+                0 0 .5rem #FFFFFF80,
+                0 0 4rem #FFFFFF80,
+                0 0 1.6rem #FFFFFF80,
+                0 0 5.6rem #FF00D080;
     animation: pulsate 5s ease-in-out infinite alternate;
 }
 
@@ -207,14 +207,14 @@ footer {
 
 .neonText-big {
     text-shadow:
-    0 0 7px #FFFFFF80,
-    0 0 10px #FFFFFF80,
-    0 0 21px #FFFFFF80,
-    0 0 42px #FF00D0,
-    0 0 82px #FF00D0,
-    0 0 92px #FF00D0,
-    0 0 102px #FF00D0,
-    0 0 151px #FF00D0;
+    0 0 1px #FFFFFF80,
+    0 0 2px #FFFFFF80,
+    0 0 4px #FFFFFF80,
+    0 0 8px #FF00D0,
+    0 0 16px #FF00D0,
+    0 0 32px #FF00D0,
+    0 0 64px #FF00D0,
+    0 0 128px #FF00D0;
 }
 
 .neonText-small {
