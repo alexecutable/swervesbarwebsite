@@ -88,8 +88,21 @@ footer {
     text-align: center;
 }
 
+.navbar {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.navbar-brand {
+    font-size: 2em;
+}
+
+.nav-item {
+    font-size: 1.5em;
+}
+
 .navbar>a {
-    color: #00FFEA;
+    color: #FFFFFF;
 }
 
 .navbar>a:hover {
@@ -175,6 +188,10 @@ footer {
   font-family: "OmegaForce-Laser-Ital";
   font-size: 4em;
   color:#FFFFFF;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 .subtitle {

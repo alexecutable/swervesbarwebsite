@@ -5,3 +5,9 @@
   - [ ] Maybe move header to be centered over img and description?
 - [x] Add neon to inner blocks headers
 - [ ] Make neon borders bigger / more obvious (too subtle)
+- [ ] Add padding between maintitle on each page (that's not the index) and the navbar
+- [ ] Make navbar text bigger
+- [ ] Change navbar text color
+- [ ] Reduce space between navbar links
+- [ ] Add dropdown to navbar?
+- [ ] Maybe change the maintitle header on the shows page to stay on "podcasts", and then change the "about" to the podcast title?
