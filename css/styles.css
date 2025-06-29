@@ -247,3 +247,8 @@ h3 {
     text-align: center;
 }
 
+.thumbnail {
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
