@@ -178,6 +178,11 @@ footer {
     background-blend-mode: overlay;
 }
 
+img {
+   width: 400px;
+   height: 200px;
+}
+
 .section-header {
     font-family:"Tilt Neon";
     text-align:center;
